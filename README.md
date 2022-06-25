@@ -1,1 +1,6 @@
 # tmux-config
+
+Plugins
+
+Statusline
+

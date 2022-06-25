@@ -1,0 +1,3 @@
+pane	config	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/.config/zsh	1	nvim	:nvim
+window	config	1	:zsh	1	:*	b6c1,190x52,0,0,4	:
+state	config	

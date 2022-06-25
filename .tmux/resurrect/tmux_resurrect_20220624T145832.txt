@@ -1,0 +1,15 @@
+pane	Alchemy-Acquisitions	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/Career/Alchemy-Acquisitions/assignments/my_docs	1	zsh	:
+pane	Life	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/Career/Token-Insight	1	zsh	:
+pane	Programming	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/Programming/machine_learning/src	1	nvim	:nvim machine_learning
+pane	config	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/.config/zsh	1	nvim	:nvim zsh
+pane	config	2	0	:	0	Lawrences-XPS-13	:/home/larrylime/.config/nvim	1	nvim	:nvim
+pane	config	3	0	:-	0	Lawrences-XPS-13	:/home/larrylime	1	nvim	:nvim .tmux.conf
+pane	py_finance	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/Programming/py_finance	1	zsh	:
+window	Alchemy-Acquisitions	1	:my_docs	1	:*	6217,135x36,0,0,18	:
+window	Life	1	:Token-Insight	1	:*	b6c3,190x52,0,0,6	:
+window	Programming	1	:src	1	:*	5b92,190x52,0,0,13	:
+window	config	1	:zsh	1	:*	c3bd,135x36,0,0,0	:
+window	config	2	:nvim	0	:	c3be,135x36,0,0,1	:
+window	config	3	:larrylime	0	:-	6210,135x36,0,0,11	:
+window	py_finance	1	:py_finance	1	:*	db8f,190x52,0,0,20	:
+state	Alchemy-Acquisitions	config

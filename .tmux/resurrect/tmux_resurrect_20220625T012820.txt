@@ -1,0 +1,17 @@
+pane	Alchemy-Acquisitions	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/Career/Alchemy-Acquisitions/assignments/my_docs	1	zsh	:
+pane	Life	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime	1	zsh	:
+pane	Programming	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/Programming/machine_learning/src	1	nvim	:nvim machine_learning
+pane	config	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/.config/zsh	1	nvim	:nvim
+pane	config	2	0	:	0	Lawrences-XPS-13	:/home/larrylime/.config/nvim	1	nvim	:nvim
+pane	config	3	0	:	0	Lawrences-XPS-13	:/home/larrylime	1	nvim	:nvim .tmux.conf
+pane	config	4	0	:-	0	Lawrences-XPS-13	:/home/larrylime/Programming/trydjango/src	1	zsh	:
+pane	py_finance	1	1	:*	0	Lawrences-XPS-13	:/home/larrylime/Programming/py_finance	1	zsh	:
+window	Alchemy-Acquisitions	1	:my_docs	1	:*	c3be,135x36,0,0,1	:
+window	Life	1	:larrylime	1	:*	b6bf,190x52,0,0,2	:
+window	Programming	1	:src	1	:*	b6c0,190x52,0,0,3	:
+window	config	1	:zsh	1	:*	b6c1,190x52,0,0,4	:
+window	config	2	:nvim	0	:	b6c2,190x52,0,0,5	:
+window	config	3	:larrylime	0	:	b6c3,190x52,0,0,6	:
+window	config	4	:src	0	:-	db95,190x52,0,0,26	:
+window	py_finance	1	:py_finance	1	:*	b6c4,190x52,0,0,7	:
+state	config	

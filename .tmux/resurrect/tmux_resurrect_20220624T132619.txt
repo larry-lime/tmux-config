@@ -1,0 +1,11 @@
+pane	config	1	0	:	0	Lawrences-XPS-13	:/home/larrylime/.config/zsh	1	nvim	:nvim zsh
+pane	config	2	0	:-	0	Lawrences-XPS-13	:/home/larrylime	1	nvim	:nvim .tmux.conf
+pane	config	3	1	:*	0	Lawrences-XPS-13	:/home/larrylime/.config/nvim	1	nvim	:nvim lua/user/options.lua
+-zsh
+pane	config	3	1	:*	1	Lawrences-XPS-13	:/home/larrylime/.config	0	zsh	:
+pane	config	4	0	:	0	Lawrences-XPS-13	:/home/larrylime/.config	1	zsh	:
+window	config	1	:zsh	0	:	b6bd,190x52,0,0,0	:
+window	config	2	:tmux	0	:-	b6be,190x52,0,0,1	off
+window	config	3	:nvim	1	:*	a454,190x52,0,0{95x52,0,0,2,94x52,96,0,6}	:
+window	config	4	:.config	0	:	b6c0,190x52,0,0,3	:
+state	config	

@@ -1,4 +1,2 @@
-temp-conf.conf
-temp-status.conf
-statusbar-temp.conf
-plugins
+.tmux/plugins/tpm
+plugins/*
